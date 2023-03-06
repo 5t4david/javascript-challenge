@@ -1,6 +1,6 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
-![images/nasa.jpg](images/nasa.jpg)
+![static/images/nasa.jpg](static/images/nasa.jpg)
 
 ## Background
 
